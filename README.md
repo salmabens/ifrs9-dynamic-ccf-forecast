@@ -17,3 +17,21 @@ Ce projet propose une méthodologie pour rendre dynamique le Credit Conversion F
 /Présentation                   # Présentation du projet
 /README.md                      # Documentation du projet
 ```
+## 👥 Contributeurs
+
+- **Sara LAVAL-JEANTET**
+- **Minh Nhat Thy HUYNH**
+- **Salma BENMOUSSA**
+- **Chahla TARMOUN**
+
+Ce projet a été développé dans le cadre du Master MOSEF, à l'université Paris 1 Panthéon Sorbonne.
+
+## 📩 Contact
+
+N'hésitez pas à nous contacter pour toute question :
+
+- sara.jeantet@gmail.com
+- hmnthy@gmail.com
+- salmabenmoussa103@gmail.com
+- chahlatarmoun@gmail.com
+
