@@ -10,7 +10,7 @@ Ce projet propose une méthodologie pour rendre dynamique le Credit Conversion F
 - 🧩 Modélisation segmentaire (ARIMA/SARIMAX, VECM)  
 - 📆 Projections trimestrielles sous trois scénarios (optimiste, central, pessimiste) 
 
-## Structure des fichiers
+## 📂 Structure des fichiers
 ```
 /Notebook                       # Notebook principal
 /Rapport                        # Rapport du projet
