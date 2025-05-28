@@ -8,9 +8,15 @@ Ce projet propose une méthodologie pour rendre dynamique le Credit Conversion F
 - 🔍 Analyse exploratoire et tests de stationnarité/cointégration  
 - 📈 Modèles globaux (OLS, SARIMA, VAR, ARIMAX)  
 - 🧩 Modélisation segmentaire (ARIMA/SARIMAX, VECM)  
-- 📆 Projections trimestrielles sous trois scénarios (optimiste, central, pessimiste)  
+- 📆 Projections trimestrielles sous trois scénarios (optimiste, central, pessimiste) 
 
-
+## Structure des fichiers
+```
+/Notebook                       # Notebook principal
+/Rapport                        # Rapport du projet
+/Présentation                   # Présentation du projet
+/README.md                      # Documentation du projet
+```
 ## 🚀 Comment Exécuter le Projet  
 
 ### 1️⃣ **Exécuter le Notebook sur Google Colab**  
